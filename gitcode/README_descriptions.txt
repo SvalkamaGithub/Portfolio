@@ -1,0 +1,2 @@
+labra.c :Parityönä tehty koulutyö jossa tehtävä oli koodata 7-segmenntinätöllä ja "nuolinäppäimillä" varustetulle kehitysalustalle laivanupotuspeli - A school project made in pairs with objective of coding a battleship game on a developement board with built-in 7-segment display and "arrow keys"
+painelampokontrolleri.ino : Arduino-koodi internetin välityksellä androidilta ohjattavalle paineen ja lämmityksenohjauslaitteelle - An arduino- code for a heating and pressure control device controlled over internet with an android based UI
